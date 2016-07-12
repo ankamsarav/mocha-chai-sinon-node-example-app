@@ -1,4 +1,4 @@
-# Test only Example App
+# Unit Testing Primer
 
 [![Build Status](https://travis-ci.org/vichu1988/mocha-chai-sinon-node-example-app.svg?branch=master)](https://travis-ci.org/vichu1988/mocha-chai-sinon-node-example-app)
 
