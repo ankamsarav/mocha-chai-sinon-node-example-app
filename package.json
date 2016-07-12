@@ -19,5 +19,17 @@
   "bugs": {
     "url": "https://github.com/vichu1988/mocha-chai-sinon-node-example-app/issues"
   },
-  "homepage": "https://github.com/vichu1988/mocha-chai-sinon-node-example-app#readme"
+  "homepage": "https://github.com/vichu1988/mocha-chai-sinon-node-example-app#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-register": "^6.9.0",
+    "chai": "^3.5.0",
+    "karma": "^1.1.1",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3",
+    "nyc": "^7.0.0",
+    "plato": "^1.5.0",
+    "sinon": "^1.17.4"
+  }
 }
