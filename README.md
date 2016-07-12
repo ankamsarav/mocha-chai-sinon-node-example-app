@@ -1,5 +1,7 @@
 # Test only Example App
 
+[![Build Status](https://travis-ci.org/vichu1988/mocha-chai-sinon-node-example-app.svg?branch=master)](https://travis-ci.org/vichu1988/mocha-chai-sinon-node-example-app)
+
 An Example test-only app using
  - node     (Tool)
  - karma    (Reporter and Scaffolding)
