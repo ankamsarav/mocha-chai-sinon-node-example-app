@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-sinon-node-example-app",
+  "version": "0.0.1",
+  "description": "example test only app illustrating mocha chai and sinon usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --opts ./support/mocha.opts --recursive ./src/**/*Spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vichu1988@github.com/vichu1988/mocha-chai-sinon-node-example-app.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Visweshwaran S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vichu1988/mocha-chai-sinon-node-example-app/issues"
+  },
+  "homepage": "https://github.com/vichu1988/mocha-chai-sinon-node-example-app#readme"
+}
