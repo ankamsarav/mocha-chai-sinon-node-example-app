@@ -14,7 +14,7 @@
 
 ## How to use ?
 
-`` 
+```
     // Checkout the code from git
     git checkout https://github.com/vichu1988/mocha-chai-sinon-node-example-app.git
 
@@ -23,7 +23,7 @@
 
     //Run Test
     npm test
-``
+```
 
 
 ## Want to Contribute ?
