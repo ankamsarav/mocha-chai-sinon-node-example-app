@@ -11,9 +11,8 @@ An Example test-only app using
  This was created for illustrating usages of the above test frameworks and can be used for tutorial purposes/
 
 
-  ### Whats ahead?
+
+## Whats ahead?
 
   - Updation with examples as and when i create them as a part of my day to day activity.
   - Include best style usages for code.
-
-
